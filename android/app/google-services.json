@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242339314835",
+    "project_id": "navkar-jewelquest",
+    "storage_bucket": "navkar-jewelquest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242339314835:android:21170811ded9dbb00c6166",
+        "android_client_info": {
+          "package_name": "com.example.navkar_jewel_quest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBv6fPzkDCVzEtTvsBU9QvZfSXHY-N3PA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
