@@ -40,6 +40,7 @@ dependencies:
   firebase_storage: ^11.6.0
   cloud_firestore: ^4.14.0
   image_picker :
+  multi_image_picker: ^4.8.01
   # image_picker_android: ^0.8.9+5
 
 dev_dependencies:
