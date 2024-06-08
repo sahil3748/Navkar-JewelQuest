@@ -1,1 +1,36 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"navkar-jewelquest","appId":"1:242339314835:android:21170811ded9dbb00c6166","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"navkar-jewelquest","configurations":{"android":"1:242339314835:android:21170811ded9dbb00c6166","ios":"1:242339314835:ios:d2fec66dd05a812f0c6166","macos":"1:242339314835:ios:d2fec66dd05a812f0c6166","web":"1:242339314835:web:eadb524a659987dd0c6166","windows":"1:242339314835:web:e2c7ebbd73b826810c6166"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "navkar-jewelquest",
+          "appId": "1:242339314835:android:21170811ded9dbb00c6166",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "navkar-jewelquest",
+          "configurations": {
+            "android": "1:242339314835:android:21170811ded9dbb00c6166",
+            "ios": "1:242339314835:ios:d2fec66dd05a812f0c6166",
+            "macos": "1:242339314835:ios:d2fec66dd05a812f0c6166",
+            "web": "1:242339314835:web:eadb524a659987dd0c6166",
+            "windows": "1:242339314835:web:e2c7ebbd73b826810c6166"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
