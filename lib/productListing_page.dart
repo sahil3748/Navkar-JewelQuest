@@ -72,16 +72,14 @@ class ProductListingPage extends StatelessWidget {
           },
         ),
       ),
-      floatingActionButton: !kIsWeb
-          ? FloatingActionButton.extended(
-              onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => ProductFormPage()));
-              },
-              icon: Icon(Icons.add),
-              label: Text('Add Product'),
-            )
-          : null,
+      floatingActionButton: FloatingActionButton.extended(
+        onPressed: () {
+          Navigator.push(context,
+              MaterialPageRoute(builder: (context) => ProductFormPage()));
+        },
+        icon: Icon(Icons.add),
+        label: Text('Add Product'),
+      ),
     );
   }
 }
